@@ -1,6 +1,10 @@
 # live-link
 # Awesome README [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://www.hnitax.com/)
 
+ <a href="https://truequalitycertification.info/">
+    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="AnhellO :: StackShare" />
+  </a>
+
 https://www.hnitax.com/
 www.quizygames.com
 https://truequalitycertification.info/
